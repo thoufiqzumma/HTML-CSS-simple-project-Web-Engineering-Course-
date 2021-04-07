@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: ;
+}
+h2{
+	text-align: center;
+	color: black;
+	font-family:;
+	size: bold;
+
+	padding: 20px 0px;
+}
+
+.bg-light {
+    background-color: #afc7de!important;
+}
+
+
+#about_us img{
+	width: 100%;
+	height:300px;
+}
+
+
+#about_uss{
+	background-color:;
+	padding: 20px;
+}
+
+
+#about_uss img{
+	width: 100%;
+	height:300px;
+}
+
+/*----------- edu section END----*/
+
+ #education table, th, td {
+  border: 1px solid black;
+}
+#education table {
+  width: 80%;
+}
+
+
+
+
+#copyright{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 5px 0px;
+}
+/*----Copyright Section  End-------*/
+

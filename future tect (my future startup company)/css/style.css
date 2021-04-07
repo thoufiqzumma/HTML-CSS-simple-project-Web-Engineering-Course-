@@ -1,0 +1,176 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: ;
+}
+h2{
+	text-align: center;
+	color: ;
+	font-family: ;
+	text-shadow: 2px 2px 5px;
+	padding: 20px 0px;
+}
+
+.bg-light {
+    background-color: #afc7de!important;
+}
+/*-----------top header start----*/
+/*-----------top header End----*/
+/*-----------Navber start----*/
+
+#menu img{
+	height: 90px;
+	width: 90px;
+}
+
+
+
+/*----------- Navber END----->
+
+/*-----------Slider Section start----*/
+#slider img{
+	height: 570px;
+}
+
+/*-----------Slider Section  END----*/
+
+/*-----------About section start----*/
+
+#about_us{
+	background-color:;
+	padding: 20px;
+}
+
+
+#about_us img{
+	width: 100%;
+	height:300px;
+}
+/*-----------About section #C5EB7E  End----*/
+
+/*-----------About2 section start----*/
+
+#about_uss{
+	background-color:;
+	padding: 20px;
+}
+
+
+#about_uss img{
+	width: 100%;
+	height:300px;
+}
+/*-----------About2 section  End----*/
+/*-----------Progress bar section start----*/
+/*----------- Progress barstart----*/
+#progress_bar .progress{
+	margin: 10px 0px;
+}
+/*-----------  Progress bar End----*/  
+
+/*----------- Progress bar section END----*/
+
+ /*-----------Team member section start----*/
+ /*-----------Team member start----*/
+#team_member{
+	color: #1a000d;
+	text-align: center;
+}
+
+#team_member h6{
+	font-weight: bold;
+}
+#team_member {
+	background-color:;
+
+}
+
+
+#team_member img{
+	width: 90%;
+	height: 250px;
+	opacity: 1;
+	margin-bottom: 20px;
+}
+
+#team_member img:hover{
+	opacity: .9;
+	
+}
+
+#team_member .col-md-3:hover{
+	border:#22075B solid 5px;
+}
+/*-----------Team member  End----*/
+
+/*----------- Team member section END----*/
+
+  /*----------- contact section us start----*/
+  /*-----------contact section start----*/
+
+/*-----------contact section  End----*/
+
+/*-----------contact section us ENd----*/
+
+ /*-----------Footer section start----*/
+ /*-----------Footer section start----*/
+#footer{
+	
+	padding-top: 40px;
+	color: white;
+	background-color: #7387ad;
+	padding: 50px;
+
+
+}
+#footer img{
+	height: 100px;
+	margin: 0px 0px 20px 110px;
+	
+}
+#footer h1{
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+	color:#376400;
+	font-family:Algerian;
+	text-shadow: 2px 2px 5px black;
+}
+#footer p{
+	text-align: center;
+}
+#footer .footer_services{
+	margin: 50px 0px 0px 90px;
+}
+#footer form{
+margin-top: 60px;
+}
+
+#footer .social_icon img{
+	height: 40px;
+	margin: 20px 0px 0px 10px;
+
+}
+#footer input{
+	
+	padding: 7px 25px;
+}
+/*-----------Footer section  End----*/
+
+
+
+
+/*----------- Footer section END----*/
+ /*----------- copyright section start----*/
+ /*----Copyright Section Strat------*/
+#copyright{
+	color: white;
+	background-color: black;
+	text-align: center;
+	padding: 5px 0px;
+}
+/*----Copyright Section  End-------*/
+
+ /*-----------copyright section End----*/
